@@ -1,0 +1,15 @@
+export const MODIFICA_NOME = 'MODIFICA_NOME';
+export const MODIFICA_EMAIL = 'MODIFICA_EMAIL';
+export const MODIFICA_SENHA = 'MODIFICA_SENHA';
+
+export const CRIA_CONTA = 'CRIA_CONTA';
+
+export const CADASTRO_SUCESSO = 'CADASTRO_SUCESSO';
+export const CARREGAMENTO_CADASTRO = 'CARREGAMENTO_CADASTRO';
+export const CADASTRO_ERRO = 'CADASTRO_ERRO';
+export const NOVO_CADASTRO = 'NOVO_CADASTRO';
+
+export const LOAD_LOGIN = 'LOAD_LOGIN';
+export const LOGIN_SUCESSO = 'LOGIN_SUCESSO';
+export const LOGIN_ERRO = 'LOGIN_ERRO';
+export const LOGOUT = 'LOGOUT';
