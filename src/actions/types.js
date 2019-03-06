@@ -13,3 +13,5 @@ export const LOAD_LOGIN = 'LOAD_LOGIN';
 export const LOGIN_SUCESSO = 'LOGIN_SUCESSO';
 export const LOGIN_ERRO = 'LOGIN_ERRO';
 export const LOGOUT = 'LOGOUT';
+
+export const TESTE_COMENTARIO= 'TESTE_COMENTARIO';
